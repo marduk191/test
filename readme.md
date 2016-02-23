@@ -2,9 +2,9 @@
 This is the main haeder
 ========================
 * [Use this link](#header)
-  * [Link 2 bitches](##header)
-  * [ muahahahaha](####header)
-* [Start a new one](###header)
+  * [Link 2 bitches](#header2)
+  * [ muahahahaha](#header4)
+* [Start a new one](#header3)
 
 <br>
 <br>
@@ -17,7 +17,7 @@ Now life begins!
 
 sdfgsdfghfghfghfghfg
 
-##header
+#header2
 
 fghfghsgftrhf
 ghf
@@ -28,13 +28,16 @@ sfghsfghfgh
 sf
 ghsf
 
-###header
+
+
+
+#header3
 sdfghfg
 hdf
 gh
 fsgh
 
-####header
+#header4
 
 fghfgh
 dfgh
